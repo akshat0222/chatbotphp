@@ -15,8 +15,7 @@
 session_start();
  
 // === Gemini API Key ===
-$GEMINI_API_KEY = "AIzaSyAu4UTSuf7qnm1yby-cVXDqW9nzVohZ8QI"; // <-- put your key here
- 
+$GEMINI_API_KEY = ""
 // === Bot configuration ===
 $DESC = <<<PROMPT
 You are 'Asha', an empathetic AI assistant for ART Fertility Clinics in India.
